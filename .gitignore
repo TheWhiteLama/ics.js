@@ -1,2 +1,7 @@
 node_modules/
 bower_components/
+/.vs
+/ics.js.sln
+/obj/x86/Debug
+/ics.js.csproj
+/ics.js.csproj.user
