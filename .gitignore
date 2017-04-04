@@ -5,3 +5,5 @@ bower_components/
 /obj/x86/Debug
 /ics.js.csproj
 /ics.js.csproj.user
+/test/Chutzpah.json
+/_Chutzpah.coverage.html
